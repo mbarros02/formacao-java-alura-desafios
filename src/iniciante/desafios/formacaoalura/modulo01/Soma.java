@@ -1,4 +1,4 @@
-package desafios.formacaoalura.modulo01;
+package iniciante.desafios.formacaoalura.modulo01;
 
 public class Soma {
     public static void main(String[] args) {

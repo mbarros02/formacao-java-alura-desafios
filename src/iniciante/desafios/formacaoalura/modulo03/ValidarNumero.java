@@ -1,4 +1,4 @@
-package desafios.formacaoalura.modulo03;
+package iniciante.desafios.formacaoalura.modulo03;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package desafios.formacaoalura.modulo02;
+package iniciante.desafios.formacaoalura.modulo02;
 
 public class CoversaoDolar {
     public static void main(String[] args) {
